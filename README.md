@@ -3,8 +3,8 @@
 
 写了2个版本，内容如下：
 
-    snake_auto： 蛇会自己运动。
+* snake_auto： 蛇会自己运动。
 
-    snake_manual： 使用键盘的方向键控制蛇的运动。
+* snake_manual： 使用键盘的方向键控制蛇的运动。
 
 ![](https://github.com/TonySudo/snake/blob/master/snake.gif)
